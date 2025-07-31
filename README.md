@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-zamani-ab42aa1bb/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mrzamani.ce@gmail.com)
 [![Github](https://img.shields.io/github/followers/mrzamaniiii?label=Follow&style=social)](https://github.com/mrzamaniiii)
+[![Orcid](https://img.shields.io/badge/-Orcid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-zamani-ab42aa1bb/)
 
 - 💻 Master's in Telecommunications Engineering
 - 📫 How to reach me: mohammadreza.zamani@mail.polimi.it
