@@ -5,7 +5,6 @@
 [![Orcid](https://img.shields.io/badge/-Orcid-blue?style=flat&logo=Linkedin&logoColor=white)](https://orcid.org/0009-0007-9982-6177)
 [![Github](https://img.shields.io/github/followers/mrzamaniiii?label=Follow&style=social)](https://github.com/mrzamaniiii)
 
-- 💻 Master's in Telecommunications Engineering
 - 📫 How to reach me: mohammadreza.zamani@mail.polimi.it
 
 
