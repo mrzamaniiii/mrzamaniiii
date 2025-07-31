@@ -8,7 +8,7 @@
 
 - 💻 Owner of [**PyTopia**](https://github.com/pytopia). Check it out for daily Python and Machine Learning contents at [pytopia.ai](https://www.pytopia.ai).
 - 🌱 I teach Python, Machine Learning, Git, etc. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai), and also my [teaching material](https://github.com/pytopia).
-- 📫 How to reach me: hejazizo@ualberta.ca
+- 📫 How to reach me: mohammadreza.zamani@mail.polimi.it
 
 
 ### 🖥 Skills
