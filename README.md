@@ -13,6 +13,7 @@
 
 - Image and Signal Processing
 - Internet of Things
+- Mobile Radio Network
 - Computer Vision
 
 ### ⚙️ Tech Stack
