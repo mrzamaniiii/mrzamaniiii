@@ -1,6 +1,7 @@
 # Mohammadreza Zamani
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-zamani-ab42aa1bb/)
+[![Google Scholar](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://scholar.google.com/citations?hl=en&user=fp4r1JMAAAAJ)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mrzamani.ce@gmail.com)
 [![Orcid](https://img.shields.io/badge/-Orcid-blue?style=flat&logo=Linkedin&logoColor=white)](https://orcid.org/0009-0007-9982-6177)
 [![Github](https://img.shields.io/github/followers/mrzamaniiii?label=Follow&style=social)](https://github.com/mrzamaniiii)
