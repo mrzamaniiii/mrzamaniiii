@@ -11,9 +11,8 @@
 ### 🖥 Skills
 
 - Image and Signal Processing
-- Internet of Things
-- Mobile Radio Network
-- Computer Vision
+- Radar Imaging
+- Autonomous Vehicles
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzamaniiii&show_icons=true&locale=en&layout=compact" alt="mrzamaniiii" /></p>
 
