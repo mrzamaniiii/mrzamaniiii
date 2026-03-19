@@ -1,4 +1,9 @@
-# Mohammadreza Zamani
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mohammadreza!;Enthusiast+in+Image+Processing;Let's+build+something+cool!" alt="Typing SVG" />
+  </a>
+</p>
+#Mohammadreza Zamani
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-zamani-ab42aa1bb/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mrzamani.ce@gmail.com)
