@@ -7,6 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-2EA043?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-zamani-ab42aa1bb/)
 [![Gmail](https://img.shields.io/badge/-Gmail-2EA043?style=flat&logo=Gmail&logoColor=white)](mailto:mrzamani.ce@gmail.com)
 [![Orcid](https://img.shields.io/badge/-Orcid-2EA043?style=flat&logo=Orcid&logoColor=white)](https://orcid.org/0009-0007-9982-6177)
+![Profile Views](https://komarev.com/ghpvc/?username=mrzamaniiii&label=Profile%20Views&color=2EA043&style=flat)
 [![Github](https://img.shields.io/github/followers/mrzamaniiii?label=Follow&style=social&color=2EA043)](https://github.com/mrzamaniiii)
 
 - 📫 How to reach me: mohammadreza.zamani@mail.polimi.it
