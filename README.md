@@ -13,9 +13,9 @@
 
 ### 🖥 Skills
 
-- Signal and Image Processing
-- Radar
-- Autonomous Vehicles
+- Radar Signal Processing
+- Autonomous Vehicles & Robotics
+- Antenna
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzamaniiii&show_icons=true&locale=en&layout=compact&theme=dark&title_color=2EA043&icon_color=2EA043&text_color=ffffff&bg_color=0d1117" alt="mrzamaniiii" />
