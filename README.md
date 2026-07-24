@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mohammadreza!;Enthusiast+in+Radar+Signal+Processing;Autonomous+Vehicles+%26+Robotics;Antenna" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mohammadreza!;Enthusiast+in+Radar+Signal+Processing;Antenna;Autonomous+Vehicles+%26+Robotics" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,8 +14,8 @@
 ### 🖥 Skills
 
 - Radar Signal Processing
-- Autonomous Vehicles & Robotics
 - Antenna
+- Autonomous Vehicles & Robotics
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrzamaniiii&show_icons=true&locale=en&layout=compact&theme=dark&title_color=2EA043&icon_color=2EA043&text_color=ffffff&bg_color=0d1117" alt="mrzamaniiii" />
