@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: mohammadreza.zamani@mail.polimi.it
 
-### 🖥 Skills
+### Skills
 
 - Radar Signal Processing
 - Antenna
