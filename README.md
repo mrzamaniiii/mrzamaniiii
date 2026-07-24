@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Mohammadreza!;Interest+in+Radar+Signal+Processing;Antenna;Autonomous+Vehicles+%26+Robotics"
+      src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Mohammadreza!;Interest+in+Radar+Signal+Processing;Antenna;Autonomous+Vehicles+%26+Robotics"
       alt="Typing SVG"
     />
   </a>
