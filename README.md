@@ -10,25 +10,17 @@
 
 - 📫 How to reach me: mohammadreza.zamani@mail.polimi.it
 
-### Skills
+<h2>Skills</h2>
 
-- Radar Signal Processing
-- Antenna
-- Autonomous Vehicles & Robotics
+<ul>
+  <li>Radar Signal Processing</li>
+  <li>Antenna</li>
+  <li>Autonomous Vehicles & Robotics</li>
+</ul>
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=mrzamaniiii&show_icons=true&theme=dark&title_color=2EA043&icon_color=2EA043&text_color=ffffff&bg_color=0d1117&hide_border=true"
-    alt="Mohammadreza's GitHub stats"
+    src="https://streak-stats.demolab.com?user=mrzamaniiii&theme=dark&hide_border=true&ring=2EA043&fire=2EA043&currStreakLabel=2EA043"
+    alt="Mohammadreza's GitHub streak"
   />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzamaniiii&layout=compact&theme=dark&title_color=2EA043&text_color=ffffff&bg_color=0d1117&hide_border=true"
-    alt="Mohammadreza's most used languages"
-  />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrzamaniiii&theme=dark&fire=2EA043&ring=2EA043&sideNums=2EA043&currStreakNum=2EA043&stroke=2EA043&dates=ffffff" alt="mrzamaniiii" />
 </p>
