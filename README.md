@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-2EA043?style=flat&logo=Gmail&logoColor=white)](mailto:mrzamani.ce@gmail.com)
 [![Orcid](https://img.shields.io/badge/-Orcid-2EA043?style=flat&logo=Orcid&logoColor=white)](https://orcid.org/0009-0007-9982-6177)
 
-- 📫 How to reach me: mohammadreza.zamani@mail.polimi.it
+- 📫 How to reach me: mohammadreza.zamani@stud.tu-darmstadt.de
 
 <h2>Skills</h2>
 
