@@ -18,7 +18,7 @@
 <ul>
   <li>Radar Signal Processing</li>
   <li>RF & Antenna</li>
-  <li>Machine Learning & Deep Learning</li>
+  <li>Machine Learning</li>
 </ul>
 
 <p align="center">
