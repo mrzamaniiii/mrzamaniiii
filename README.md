@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Pacifico&size=21&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=800&height=75&lines=Hi%2C+I'm+Mohammadreza!;Interest+in+Radar+Signal+Processing;RF+%26+Antenna;Machine+Learning"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-2EA043?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadreza-zamani-ab42aa1bb/)
 [![Gmail](https://img.shields.io/badge/-Gmail-2EA043?style=flat&logo=Gmail&logoColor=white)](mailto:mrzamani.ce@gmail.com)
 [![Orcid](https://img.shields.io/badge/-Orcid-2EA043?style=flat&logo=Orcid&logoColor=white)](https://orcid.org/0009-0007-9982-6177)
