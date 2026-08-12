@@ -19,7 +19,7 @@
   <li>Radar Signal Processing</li>
   <li>RF & Antenna</li>
   <li>5G/6G</li>
-  li>Mobile & Radio Networks</li>
+  <li>Mobile & Radio Networks</li>
 </ul>
 
 <p align="center">
