@@ -7,7 +7,6 @@
 <h2>Skills</h2>
 
 <ul>
-  <li>Radar Signal Processing</li>
   <li>RF & Antenna</li>
   <li>5G/6G</li>
   <li>Mobile & Radio Networks</li>
