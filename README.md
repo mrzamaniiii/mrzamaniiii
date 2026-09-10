@@ -6,12 +6,6 @@
 
 <h2>Skills</h2>
 
-<ul>
-  <li>RF & Antenna</li>
-  <li>5G/6G</li>
-  <li>Mobile & Radio Networks</li>
-</ul>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=mrzamaniiii&theme=dark&hide_border=true&ring=2EA043&fire=2EA043&currStreakLabel=2EA043"
